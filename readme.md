@@ -1,25 +1,26 @@
 <p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
+
 <h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
-<hr>
 
 <p align="center">
-  Maintained fork by <strong>BENZORICH</strong><br>
-  Original project: <a href="https://github.com/tandpfun/skill-icons" target="_blank" rel="noopener noreferrer">tandpfun/skill-icons</a><br>
+  Maintained fork by <strong>BENZORICH</strong> ·
+  Original: <a href="https://github.com/tandpfun/skill-icons" target="_blank" rel="noopener noreferrer">tandpfun/skill-icons</a> ·
   Hosted at <a href="https://icons.benzorich.de" target="_blank" rel="noopener noreferrer">icons.benzorich.de</a>
 </p>
 
-<h3 align="center">Powered by Cloudflare Workers ⚡</h3>
+<p align="center">Powered by Cloudflare Workers ⚡</p>
 
-<h3 align="center">
-  NOTE: This is a maintained fork. I am not the original creator of Skill Icons.
-  The original project was created by <a href="https://github.com/tandpfun/skill-icons" target="_blank" rel="noopener noreferrer">tandpfun/skill-icons</a>.
-</h3>
+<p align="center">
+  This is a maintained fork. The original project belongs to <a href="https://github.com/tandpfun/skill-icons" target="_blank" rel="noopener noreferrer">tandpfun/skill-icons</a>.
+</p>
 
-<h3 align="center">
-  To keep icons consistent and to ensure browser support, this fork does not accept pull requests for icon submissions.
-  If you would like an icon added, please open an issue.
-</h3>
+<p align="center">
+  For consistency and browser support, this fork does not accept pull requests for icon submissions.
+  If you want an icon added, please open an issue.
+</p>
+
+<hr>
 
 # Docs
 
@@ -46,7 +47,6 @@ Change the `?i=js,html,css` to a list of your skills separated by commas. You ca
 ```
 
 [![My Skills](https://icons.benzorich.de/icons?i=js,html,css,wasm)](https://icons.benzorich.de)
-
 # Themed Icons
 
 Some icons have a dark and light themed background. You can specify which theme you want as a URL parameter.
@@ -91,7 +91,7 @@ Want to center the icons in your README? The SVGs are automatically resized, so 
   <a href="https://icons.benzorich.de">
     <img src="https://icons.benzorich.de/icons?i=git,kubernetes,docker,c,vim" />
   </a>
-</p>      
+</p>
 
 # Icons List
 
