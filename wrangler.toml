@@ -1,0 +1,4 @@
+name = "skill-icons"
+main = "index.js"
+compatibility_date = "2026-05-01"
+workers_dev = true
