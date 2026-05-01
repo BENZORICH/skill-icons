@@ -42,7 +42,7 @@ Copy and paste the code block below into your README to add the skills icon elem
 Change the `?i=js,html,css` to a list of your skills separated by commas. You can find a full list of icons [here](#icons-list).
 
 ```md
-[
+[![My Skills](https://icons.benzorich.de/icons?i=js,html,css,wasm)](https://icons.benzorich.de)
 ```
 
 [![My Skills](https://icons.benzorich.de/icons?i=js,html,css,wasm)](https://icons.benzorich.de)
@@ -58,7 +58,7 @@ Change the `&theme=light` to either `dark` or `light`. The theme controls the ba
 **Light Theme Example:**
 
 ```md
-[
+[![My Skills](https://icons.benzorich.de/icons?i=java,kotlin,nodejs,figma&theme=light)](https://icons.benzorich.de)
 ```
 
 [![My Skills](https://icons.benzorich.de/icons?i=java,kotlin,nodejs,figma&theme=light)](https://icons.benzorich.de)
@@ -70,7 +70,7 @@ You can specify how many icons you would like per line. It's an optional argumen
 Change the `&perline=3` to any number between 1 and 50.
 
 ```md
-[
+[![My Skills](https://icons.benzorich.de/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://icons.benzorich.de)
 ```
 
 [![My Skills](https://icons.benzorich.de/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://icons.benzorich.de)
